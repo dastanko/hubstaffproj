@@ -5,4 +5,5 @@ Requirements:
 
 Instructions to execute.
   * Clone the repo.
+  * Update settings in variables.tf 
   * Run `terraform apply` in project dir.  
